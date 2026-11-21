@@ -85,8 +85,8 @@ ai-link-analysis/
 
 Clone the repository and enter the project directory:
 ```bash
-git clone <your-repo-url>
-cd ai-link-analysis
+git clone https://github.com/pritt18/website-link-analyzer.git
+cd website-link-analyzer
 ```
 
 Create and activate a virtual environment:
